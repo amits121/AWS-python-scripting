@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASutomating AWS with pythont
 This is AWS repositoroy for scrpiting using python
 
@@ -12,3 +13,8 @@ Webotron currently has the following features
 -List bucket
 
 -List contents of a bucket 
+=======
+# AWS-python-scripting
+
+Scripting  with python AWS  
+
